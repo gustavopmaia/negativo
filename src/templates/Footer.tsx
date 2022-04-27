@@ -14,20 +14,15 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="/">
-            <a>Sobre</a>
-          </Link>
-        </li>
++         <Link href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ">
++           <a>Yammer</a>
++         </Link>
++        </li>
         <li>
           <Link href="/">
             <a>Integrantes</a>
           </Link>
         </li>
-        <li>
-+          <Link href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ">
-+            <a>Yammer</a>
-+          </Link>
-+        </li>
       </CenteredFooter>
     </Section>
   </Background>
