@@ -27,7 +27,7 @@ const Hero = () => (
           </Link>
         </li>
         <li>
-+          <Link target="_blank" href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ">
++          <Link href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ">
 +            <a>Yammer</a>
 +          </Link>
 +        </li>
