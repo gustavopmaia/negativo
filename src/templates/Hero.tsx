@@ -12,12 +12,12 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo />}>
         <li>
-          <Link href="">
+          <Link href="/">
             <a>Sobre</a>
           </Link>
         </li>
         <li>
-+         <Link href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ">
++         <Link href="/">
 +           <a>Yammer</a>
 +         </Link>
 +        </li>

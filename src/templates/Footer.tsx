@@ -14,7 +14,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-+         <Link href="https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxMDM1NzMyNzQ2MjQifQ">
++         <Link href="/">
 +           <a>Yammer</a>
 +         </Link>
 +        </li>
