@@ -21,7 +21,11 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Integrantes"
-      description="- Gustavo Maia \n- Pedro Santos \n- Pedro Marques \n- Joao Pedro Soares \n- Vitor Gabriel"
+      description="- Gustavo Maia 
+      - Pedro Santos 
+      - Pedro Marques 
+      - Joao Pedro Soares 
+      - Vitor Gabriel"
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
