@@ -8,20 +8,20 @@ const VerticalFeatures = () => (
   >
     <VerticalFeatureRow
       title="Sobre"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      description="Empresa de projetos com arduino para facilitar a vida de pessoas no seu dia a dia, com projetos inteligentes e funcionais"
       image="/assets/images/feature.svg"
       imageAlt="First feature alt text"
     />
     <VerticalFeatureRow
       title="Projetos"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      description="Em breve."
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
       reverse
     />
     <VerticalFeatureRow
       title="Integrantes"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      description="- Gustavo Maia \n- Pedro Santos \n- Pedro Marques \n- Joao Pedro Soares \n- Vitor Gabriel"
       image="/assets/images/feature3.svg"
       imageAlt="Third feature alt text"
     />
