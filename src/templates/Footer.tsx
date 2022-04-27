@@ -10,17 +10,17 @@ const Footer = () => (
       <CenteredFooter logo="" iconList="">
         <li>
           <Link href="/">
-            <a>Home</a>
+            Home
           </Link>
         </li>
         <li>
 +         <Link href="/">
-+           <a>Yammer</a>
++           Yammer
 +         </Link>
 +        </li>
         <li>
           <Link href="/">
-            <a>Integrantes</a>
+            Integrantes
           </Link>
         </li>
       </CenteredFooter>

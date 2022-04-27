@@ -13,17 +13,17 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo />}>
         <li>
           <Link href="/">
-            <a>Sobre</a>
+            Sobre
           </Link>
         </li>
         <li>
 +         <Link href="/">
-+           <a>Yammer</a>
++           Yammer
 +         </Link>
 +        </li>
         <li>
           <Link href="/">
-            <a>Integrantes</a>
+            Integrantes
           </Link>
         </li>
       </NavbarTwoColumns>
