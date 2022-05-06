@@ -4,7 +4,7 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="Negativo"
-    description="Empresa de Arduino 'Negativo' atrai coisas positivos'"
+    description="Empresa de Arduino 'Negativo' atrai coisas positivas'"
   >
     <VerticalFeatureRow
       title="Sobre"
