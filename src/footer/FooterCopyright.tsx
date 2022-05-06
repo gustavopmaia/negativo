@@ -4,7 +4,7 @@ const FooterCopyright = () => (
     <span role="img" aria-label="Love">
       ♥
     </span>{' '}
-    by <a href="https://creativedesignsguru.com">Gustavo Maia</a>
+    by Gustavo Maia
     {/*
      * PLEASE READ THIS SECTION
      * We'll really appreciate if you could have a link to our website
