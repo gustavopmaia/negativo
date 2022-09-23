@@ -14,7 +14,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Projetos"
-      description="Em breve."
+      description="Inosolo: Um irrigador inteligente e automático feito com arduino. Feito para ser mais barato e economizar mais água"
       image="/assets/images/feature2.svg"
       imageAlt="Second feature alt text"
       reverse
